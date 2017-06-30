@@ -8,6 +8,6 @@ Python was used after modeling the data.
 
 STEP:
 
-1. go to 'explore_data.R'
+1. go to 'exploring_data.R'
 
-2. go to 'modelling_data.py'
+2. go to 'model_data.py'
