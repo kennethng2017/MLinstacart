@@ -11,3 +11,5 @@ STEP:
 1. go to 'exploring_data.R'
 
 2. go to 'model_data.py'
+
+For more information go to https://www.kaggle.com/c/instacart-market-basket-analysis
